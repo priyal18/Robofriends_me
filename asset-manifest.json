@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/priyal18/Robofriends_me.git/static/css/main.e14b1694.chunk.css",
+    "main.js": "/priyal18/Robofriends_me.git/static/js/main.7dc628fc.chunk.js",
+    "main.js.map": "/priyal18/Robofriends_me.git/static/js/main.7dc628fc.chunk.js.map",
+    "runtime-main.js": "/priyal18/Robofriends_me.git/static/js/runtime-main.a4ac7d71.js",
+    "runtime-main.js.map": "/priyal18/Robofriends_me.git/static/js/runtime-main.a4ac7d71.js.map",
+    "static/css/2.b97b5188.chunk.css": "/priyal18/Robofriends_me.git/static/css/2.b97b5188.chunk.css",
+    "static/js/2.f84ffc51.chunk.js": "/priyal18/Robofriends_me.git/static/js/2.f84ffc51.chunk.js",
+    "static/js/2.f84ffc51.chunk.js.map": "/priyal18/Robofriends_me.git/static/js/2.f84ffc51.chunk.js.map",
+    "index.html": "/priyal18/Robofriends_me.git/index.html",
+    "static/css/2.b97b5188.chunk.css.map": "/priyal18/Robofriends_me.git/static/css/2.b97b5188.chunk.css.map",
+    "static/css/main.e14b1694.chunk.css.map": "/priyal18/Robofriends_me.git/static/css/main.e14b1694.chunk.css.map",
+    "static/js/2.f84ffc51.chunk.js.LICENSE.txt": "/priyal18/Robofriends_me.git/static/js/2.f84ffc51.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/priyal18/Robofriends_me.git/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4ac7d71.js",
+    "static/css/2.b97b5188.chunk.css",
+    "static/js/2.f84ffc51.chunk.js",
+    "static/css/main.e14b1694.chunk.css",
+    "static/js/main.7dc628fc.chunk.js"
+  ]
+}
